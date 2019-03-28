@@ -1,0 +1,10 @@
+{
+    "Application" : 1,
+    "Automation" : 2,
+    "Configuration" : 3,
+    "Hardware" : 4,
+    "Network" : 5,
+    "Project" : 6,
+    "Security" : 7,
+    "Software" : 8
+}

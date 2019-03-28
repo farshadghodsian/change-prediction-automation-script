@@ -1,0 +1,17 @@
+{
+  "name": "changepredictionapi",
+  "version": "1.0.0",
+  "description": "Change Management Prediction API",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "clearlogs": "rm /root/.forever/*.log",
+    "touchlog": "touch /root/.forever/L35f.log"
+  },
+  "author": "Farshad Ghodsian",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^1.13.0"
+  }
+}

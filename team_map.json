@@ -1,0 +1,13 @@
+{
+    "Automation Team" : 1,
+    "Data Team" : 2,
+    "Database Team" : 3,
+    "Development Team" : 4,
+    "Linux Team" : 5,
+    "Network Team" : 6,
+    "Production Team" : 7,
+    "Project Management Team" : 8,
+    "Technical Architecture Team" : 9,
+    "Web Services Team" : 10,
+    "Windows Team" : 11
+}
